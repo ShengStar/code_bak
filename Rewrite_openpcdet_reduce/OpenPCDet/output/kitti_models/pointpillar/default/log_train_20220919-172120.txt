@@ -347,3 +347,197 @@ cfg.OPTIMIZATION = edict()
 [0] NVIDIA A100 80GB PCIe | 80'C,  15 % | 51888 / 81920 MB | lg(51021M)
 [1] NVIDIA A100 80GB PCIe | 78'C,   0 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
 
+2022-09-19 17:45:26,647   INFO  epoch: 50/80, acc_iter=47300, cur_iter=899/928, batch_size=4, time_cost(epoch): 11:15/00:21, time_cost(all): 23:59/5:36:56, loss=0.38471928238868713, d_time=0.00(0.41), f_time=0.55(0.34), b_time=0.55(0.75), lr=0.001985073482044144
+2022-09-19 17:45:47,977   INFO  epoch: 50/80, acc_iter=47328, cur_iter=927/928, batch_size=4, time_cost(epoch): 11:36/00:00, time_cost(all): 24:21/5:36:44, loss=0.3805760443210602, d_time=0.00(0.41), f_time=0.58(0.34), b_time=0.58(0.75), lr=0.0019822695515842354
+2022-09-19 17:46:15,738   INFO  epoch: 51/80, acc_iter=47329, cur_iter=0/928, batch_size=4, time_cost(epoch): 00:14/3:46:52, time_cost(all): 24:49/109:39:23, loss=0.3819286823272705, d_time=14.38(14.38), f_time=0.28(0.28), b_time=14.66(14.66), lr=0.001982169376362763
+2022-09-19 17:46:30,109   INFO  epoch: 51/80, acc_iter=47350, cur_iter=21/928, batch_size=4, time_cost(epoch): 00:29/19:57, time_cost(all): 25:03/9:51:34, loss=0.5052617788314819, d_time=0.00(0.93), f_time=0.36(0.39), b_time=0.36(1.32), lr=0.001980065143467004
+2022-09-19 17:47:06,159   INFO  epoch: 51/80, acc_iter=47400, cur_iter=71/928, batch_size=4, time_cost(epoch): 01:05/12:54, time_cost(all): 25:39/6:44:24, loss=0.36074763536453247, d_time=0.01(0.52), f_time=0.62(0.38), b_time=0.63(0.90), lr=0.0019750508352589504
+2022-09-19 17:47:06,651   INFO  cqu100                    Mon Sep 19 17:47:06 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C,  79 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C,  76 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 17:47:43,548   INFO  epoch: 51/80, acc_iter=47450, cur_iter=121/928, batch_size=4, time_cost(epoch): 01:42/11:17, time_cost(all): 26:16/6:15:04, loss=0.4112130403518677, d_time=0.02(0.47), f_time=0.58(0.37), b_time=0.59(0.84), lr=0.001970030619775073
+2022-09-19 17:48:22,054   INFO  epoch: 51/80, acc_iter=47500, cur_iter=171/928, batch_size=4, time_cost(epoch): 02:20/10:20, time_cost(all): 26:55/6:05:18, loss=0.30580246448516846, d_time=1.41(0.46), f_time=0.24(0.36), b_time=1.65(0.82), lr=0.0019650045594439194
+2022-09-19 17:48:59,959   INFO  epoch: 51/80, acc_iter=47550, cur_iter=221/928, batch_size=4, time_cost(epoch): 02:58/09:29, time_cost(all): 27:33/5:58:27, loss=0.42562276124954224, d_time=0.00(0.45), f_time=0.37(0.36), b_time=0.37(0.81), lr=0.001959972716766722
+2022-09-19 17:49:00,447   INFO  cqu100                    Mon Sep 19 17:49:00 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C, 100 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C, 100 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 17:49:39,563   INFO  epoch: 51/80, acc_iter=47600, cur_iter=271/928, batch_size=4, time_cost(epoch): 03:38/08:47, time_cost(all): 28:12/5:56:40, loss=0.4193783402442932, d_time=1.68(0.44), f_time=0.36(0.36), b_time=2.05(0.80), lr=0.001954935154316616
+2022-09-19 17:50:15,908   INFO  epoch: 51/80, acc_iter=47650, cur_iter=321/928, batch_size=4, time_cost(epoch): 04:14/08:00, time_cost(all): 28:49/5:50:44, loss=0.3762873709201813, d_time=0.00(0.42), f_time=0.46(0.37), b_time=0.46(0.79), lr=0.0019498919347378692
+2022-09-19 17:50:53,227   INFO  epoch: 51/80, acc_iter=47700, cur_iter=371/928, batch_size=4, time_cost(epoch): 04:52/07:17, time_cost(all): 29:26/5:47:24, loss=0.343267560005188, d_time=1.16(0.41), f_time=0.33(0.37), b_time=1.49(0.79), lr=0.0019448431207450942
+2022-09-19 17:50:53,597   INFO  cqu100                    Mon Sep 19 17:50:53 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 83'C, 100 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 83'C,  72 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 17:51:02,461   INFO  Save latest model to /data/lixusheng_data/code/paper/OpenPCDet_20220718/Rewrite_openpcdet_reduce/OpenPCDet/output/kitti_models/pointpillar/default/ckpt/latest_model
+2022-09-19 17:51:27,010   INFO  epoch: 51/80, acc_iter=47750, cur_iter=421/928, batch_size=4, time_cost(epoch): 05:25/06:31, time_cost(all): 30:00/5:41:00, loss=0.33423951268196106, d_time=0.00(0.42), f_time=0.10(0.36), b_time=0.10(0.77), lr=0.0019397887751224751
+2022-09-19 17:52:03,219   INFO  epoch: 51/80, acc_iter=47800, cur_iter=471/928, batch_size=4, time_cost(epoch): 06:02/05:50, time_cost(all): 30:36/5:38:07, loss=0.3734126687049866, d_time=0.47(0.43), f_time=0.30(0.34), b_time=0.77(0.77), lr=0.001934728960722982
+2022-09-19 17:52:39,454   INFO  epoch: 51/80, acc_iter=47850, cur_iter=521/928, batch_size=4, time_cost(epoch): 06:38/05:10, time_cost(all): 31:12/5:35:41, loss=0.347796231508255, d_time=0.01(0.42), f_time=0.59(0.34), b_time=0.60(0.76), lr=0.0019296637404675936
+2022-09-19 17:52:39,877   INFO  cqu100                    Mon Sep 19 17:52:39 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C,  53 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C,  73 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 17:53:13,972   INFO  epoch: 51/80, acc_iter=47900, cur_iter=571/928, batch_size=4, time_cost(epoch): 07:12/04:30, time_cost(all): 31:47/5:32:15, loss=0.4099559783935547, d_time=0.00(0.41), f_time=0.14(0.35), b_time=0.14(0.76), lr=0.001924593177344512
+2022-09-19 17:53:48,349   INFO  epoch: 51/80, acc_iter=47950, cur_iter=621/928, batch_size=4, time_cost(epoch): 07:47/03:50, time_cost(all): 32:21/5:29:11, loss=0.400320827960968, d_time=0.05(0.40), f_time=0.36(0.35), b_time=0.41(0.75), lr=0.0019195173344083796
+2022-09-19 17:54:25,429   INFO  epoch: 51/80, acc_iter=48000, cur_iter=671/928, batch_size=4, time_cost(epoch): 08:24/03:12, time_cost(all): 32:58/5:28:14, loss=0.384412556886673, d_time=0.00(0.40), f_time=0.14(0.35), b_time=0.14(0.75), lr=0.001914436274779496
+2022-09-19 17:54:25,841   INFO  cqu100                    Mon Sep 19 17:54:25 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C,  51 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C,  77 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 17:55:02,752   INFO  epoch: 51/80, acc_iter=48050, cur_iter=721/928, batch_size=4, time_cost(epoch): 09:01/02:35, time_cost(all): 33:36/5:27:29, loss=0.3414916396141052, d_time=0.00(0.39), f_time=0.37(0.36), b_time=0.37(0.75), lr=0.001909350061643033
+2022-09-19 17:55:38,721   INFO  epoch: 51/80, acc_iter=48100, cur_iter=771/928, batch_size=4, time_cost(epoch): 09:37/01:57, time_cost(all): 34:12/5:26:00, loss=0.3811219334602356, d_time=0.00(0.39), f_time=0.36(0.36), b_time=0.37(0.75), lr=0.0019042587582482483
+2022-09-19 17:56:01,737   INFO  Save latest model to /data/lixusheng_data/code/paper/OpenPCDet_20220718/Rewrite_openpcdet_reduce/OpenPCDet/output/kitti_models/pointpillar/default/ckpt/latest_model
+2022-09-19 17:56:13,886   INFO  epoch: 51/80, acc_iter=48150, cur_iter=821/928, batch_size=4, time_cost(epoch): 10:12/01:19, time_cost(all): 34:47/5:24:11, loss=0.4430617690086365, d_time=0.13(0.39), f_time=0.10(0.36), b_time=0.23(0.75), lr=0.001899162427907698
+2022-09-19 17:56:14,312   INFO  cqu100                    Mon Sep 19 17:56:14 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C,  44 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 85'C,  83 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 17:56:51,333   INFO  epoch: 51/80, acc_iter=48200, cur_iter=871/928, batch_size=4, time_cost(epoch): 10:50/00:42, time_cost(all): 35:24/5:23:39, loss=0.35964202880859375, d_time=1.02(0.38), f_time=0.42(0.36), b_time=1.44(0.75), lr=0.0018940611339964529
+2022-09-19 17:57:28,035   INFO  epoch: 51/80, acc_iter=48250, cur_iter=921/928, batch_size=4, time_cost(epoch): 11:26/00:05, time_cost(all): 36:01/5:22:45, loss=0.33385181427001953, d_time=1.76(0.38), f_time=0.45(0.36), b_time=2.21(0.75), lr=0.0018889549399513058
+2022-09-19 17:57:32,168   INFO  epoch: 51/80, acc_iter=48256, cur_iter=927/928, batch_size=4, time_cost(epoch): 11:31/00:00, time_cost(all): 36:05/5:22:31, loss=0.37562990188598633, d_time=0.00(0.38), f_time=0.37(0.36), b_time=0.37(0.74), lr=0.001888341870391639
+2022-09-19 17:57:59,078   INFO  epoch: 52/80, acc_iter=48257, cur_iter=0/928, batch_size=4, time_cost(epoch): 00:13/3:28:29, time_cost(all): 36:32/97:17:40, loss=0.4098879098892212, d_time=13.37(13.37), f_time=0.11(0.11), b_time=13.48(13.48), lr=0.0018882396853681048
+2022-09-19 17:58:28,249   INFO  epoch: 52/80, acc_iter=48300, cur_iter=43/928, batch_size=4, time_cost(epoch): 00:42/14:17, time_cost(all): 37:01/6:59:05, loss=0.4756038188934326, d_time=0.00(0.87), f_time=0.09(0.10), b_time=0.09(0.97), lr=0.0018838439092699858
+2022-09-19 17:58:28,684   INFO  cqu100                    Mon Sep 19 17:58:28 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 80'C,  17 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 79'C,   0 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 17:59:04,623   INFO  epoch: 52/80, acc_iter=48350, cur_iter=93/928, batch_size=4, time_cost(epoch): 01:19/11:41, time_cost(all): 37:37/6:02:46, loss=0.36483773589134216, d_time=1.20(0.63), f_time=0.32(0.21), b_time=1.52(0.84), lr=0.0018787281055103668
+2022-09-19 17:59:40,931   INFO  epoch: 52/80, acc_iter=48400, cur_iter=143/928, batch_size=4, time_cost(epoch): 01:55/10:28, time_cost(all): 38:14/5:44:56, loss=0.34278833866119385, d_time=0.01(0.53), f_time=0.56(0.27), b_time=0.56(0.80), lr=0.0018736075922896787
+2022-09-19 18:00:17,878   INFO  epoch: 52/80, acc_iter=48450, cur_iter=193/928, batch_size=4, time_cost(epoch): 02:32/09:36, time_cost(all): 38:51/5:37:24, loss=0.3630370795726776, d_time=0.95(0.48), f_time=0.37(0.30), b_time=1.32(0.78), lr=0.001868482433283716
+2022-09-19 18:00:18,267   INFO  cqu100                    Mon Sep 19 18:00:18 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C, 100 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C, 100 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:00:54,941   INFO  epoch: 52/80, acc_iter=48500, cur_iter=243/928, batch_size=4, time_cost(epoch): 03:09/08:51, time_cost(all): 39:28/5:32:54, loss=0.3461146056652069, d_time=0.00(0.46), f_time=0.41(0.32), b_time=0.41(0.78), lr=0.0018633526922260447
+2022-09-19 18:01:30,801   INFO  epoch: 52/80, acc_iter=48550, cur_iter=293/928, batch_size=4, time_cost(epoch): 03:45/08:06, time_cost(all): 40:04/5:27:59, loss=0.4172738492488861, d_time=1.90(0.44), f_time=0.34(0.33), b_time=2.24(0.77), lr=0.0018582184329072103
+2022-09-19 18:02:05,789   INFO  epoch: 52/80, acc_iter=48600, cur_iter=343/928, batch_size=4, time_cost(epoch): 04:20/07:22, time_cost(all): 40:39/5:23:14, loss=0.37873467803001404, d_time=0.01(0.42), f_time=0.63(0.34), b_time=0.64(0.76), lr=0.0018530797191739462
+2022-09-19 18:02:06,139   INFO  cqu100                    Mon Sep 19 18:02:06 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C,  79 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C,  62 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:02:42,434   INFO  epoch: 52/80, acc_iter=48650, cur_iter=393/928, batch_size=4, time_cost(epoch): 04:56/06:43, time_cost(all): 41:15/5:21:19, loss=0.38232994079589844, d_time=1.76(0.40), f_time=0.51(0.35), b_time=2.27(0.75), lr=0.001847936614928377
+2022-09-19 18:02:46,397   INFO  Save latest model to /data/lixusheng_data/code/paper/OpenPCDet_20220718/Rewrite_openpcdet_reduce/OpenPCDet/output/kitti_models/pointpillar/default/ckpt/latest_model
+2022-09-19 18:03:18,485   INFO  epoch: 52/80, acc_iter=48700, cur_iter=443/928, batch_size=4, time_cost(epoch): 05:32/06:03, time_cost(all): 41:51/5:19:09, loss=0.47281795740127563, d_time=0.01(0.40), f_time=0.57(0.35), b_time=0.57(0.75), lr=0.0018427891841272265
+2022-09-19 18:03:53,985   INFO  epoch: 52/80, acc_iter=48750, cur_iter=493/928, batch_size=4, time_cost(epoch): 06:08/05:24, time_cost(all): 42:27/5:16:49, loss=0.32872965931892395, d_time=0.65(0.39), f_time=0.27(0.36), b_time=0.91(0.75), lr=0.0018376374907810192
+2022-09-19 18:03:54,355   INFO  cqu100                    Mon Sep 19 18:03:54 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C,  90 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C, 100 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:04:29,484   INFO  epoch: 52/80, acc_iter=48800, cur_iter=543/928, batch_size=4, time_cost(epoch): 06:43/04:45, time_cost(all): 43:02/5:14:48, loss=0.41499367356300354, d_time=0.00(0.38), f_time=0.15(0.36), b_time=0.15(0.74), lr=0.0018324815989532882
+2022-09-19 18:05:03,328   INFO  epoch: 52/80, acc_iter=48850, cur_iter=593/928, batch_size=4, time_cost(epoch): 07:17/04:06, time_cost(all): 43:36/5:11:51, loss=0.3751550316810608, d_time=0.03(0.39), f_time=0.10(0.35), b_time=0.13(0.74), lr=0.0018273215727597758
+2022-09-19 18:05:38,745   INFO  epoch: 52/80, acc_iter=48900, cur_iter=643/928, batch_size=4, time_cost(epoch): 07:53/03:29, time_cost(all): 44:12/5:10:18, loss=0.3702816069126129, d_time=0.01(0.40), f_time=0.45(0.34), b_time=0.46(0.73), lr=0.0018221574763676366
+2022-09-19 18:05:39,123   INFO  cqu100                    Mon Sep 19 18:05:39 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 81'C,  89 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 81'C,  73 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:06:15,241   INFO  epoch: 52/80, acc_iter=48950, cur_iter=693/928, batch_size=4, time_cost(epoch): 08:29/02:52, time_cost(all): 44:48/5:09:32, loss=0.4063161611557007, d_time=0.00(0.40), f_time=0.32(0.34), b_time=0.32(0.73), lr=0.00181698937399464
+2022-09-19 18:06:50,019   INFO  epoch: 52/80, acc_iter=49000, cur_iter=743/928, batch_size=4, time_cost(epoch): 09:04/02:15, time_cost(all): 45:23/5:07:50, loss=0.4056270122528076, d_time=0.24(0.39), f_time=0.38(0.34), b_time=0.62(0.73), lr=0.0018118173299083713
+2022-09-19 18:07:25,788   INFO  epoch: 52/80, acc_iter=49050, cur_iter=793/928, batch_size=4, time_cost(epoch): 09:40/01:38, time_cost(all): 45:59/5:06:47, loss=0.34658288955688477, d_time=0.02(0.39), f_time=0.78(0.34), b_time=0.80(0.73), lr=0.001806641408425434
+2022-09-19 18:07:26,140   INFO  cqu100                    Mon Sep 19 18:07:26 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C, 100 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 83'C,  72 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:07:45,982   INFO  Save latest model to /data/lixusheng_data/code/paper/OpenPCDet_20220718/Rewrite_openpcdet_reduce/OpenPCDet/output/kitti_models/pointpillar/default/ckpt/latest_model
+2022-09-19 18:08:01,626   INFO  epoch: 52/80, acc_iter=49100, cur_iter=843/928, batch_size=4, time_cost(epoch): 10:16/01:02, time_cost(all): 46:34/5:05:50, loss=0.47737210988998413, d_time=1.51(0.39), f_time=0.18(0.34), b_time=1.69(0.73), lr=0.0018014616739106468
+2022-09-19 18:08:38,518   INFO  epoch: 52/80, acc_iter=49150, cur_iter=893/928, batch_size=4, time_cost(epoch): 10:52/00:25, time_cost(all): 47:11/5:05:24, loss=0.34285077452659607, d_time=0.02(0.38), f_time=0.59(0.35), b_time=0.61(0.73), lr=0.0017962781907762458
+2022-09-19 18:09:02,579   INFO  epoch: 52/80, acc_iter=49184, cur_iter=927/928, batch_size=4, time_cost(epoch): 11:16/00:00, time_cost(all): 47:35/5:04:39, loss=0.33966150879859924, d_time=1.31(0.38), f_time=0.29(0.35), b_time=1.60(0.73), lr=0.0017927513139229991
+2022-09-19 18:09:30,027   INFO  epoch: 53/80, acc_iter=49185, cur_iter=0/928, batch_size=4, time_cost(epoch): 00:13/3:36:28, time_cost(all): 48:03/97:24:40, loss=0.32783663272857666, d_time=13.79(13.79), f_time=0.20(0.20), b_time=13.99(13.99), lr=0.0017926475566693626
+2022-09-19 18:09:40,004   INFO  epoch: 53/80, acc_iter=49200, cur_iter=15/928, batch_size=4, time_cost(epoch): 00:23/22:47, time_cost(all): 48:13/10:25:20, loss=0.30581825971603394, d_time=0.01(1.11), f_time=0.34(0.39), b_time=0.35(1.50), lr=0.001791091023481084
+2022-09-19 18:09:40,375   INFO  cqu100                    Mon Sep 19 18:09:40 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C,  81 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C, 100 % | 57793 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1797M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:10:17,088   INFO  epoch: 53/80, acc_iter=49250, cur_iter=65/928, batch_size=4, time_cost(epoch): 01:01/13:18, time_cost(all): 48:50/6:25:19, loss=0.3676515817642212, d_time=1.02(0.54), f_time=0.36(0.38), b_time=1.38(0.93), lr=0.0017859002365298272
+2022-09-19 18:10:52,690   INFO  epoch: 53/80, acc_iter=49300, cur_iter=115/928, batch_size=4, time_cost(epoch): 01:36/11:17, time_cost(all): 49:25/5:46:22, loss=0.3725576400756836, d_time=0.00(0.45), f_time=0.33(0.38), b_time=0.34(0.83), lr=0.0017807058944721526
+2022-09-19 18:11:29,417   INFO  epoch: 53/80, acc_iter=49350, cur_iter=165/928, batch_size=4, time_cost(epoch): 02:13/10:13, time_cost(all): 50:02/5:33:20, loss=0.37160995602607727, d_time=0.95(0.42), f_time=0.25(0.38), b_time=1.19(0.80), lr=0.0017755080619019491
+2022-09-19 18:11:29,787   INFO  cqu100                    Mon Sep 19 18:11:29 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C, 100 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C, 100 % | 57793 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1797M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:12:03,441   INFO  epoch: 53/80, acc_iter=49400, cur_iter=215/928, batch_size=4, time_cost(epoch): 02:47/09:12, time_cost(all): 50:36/5:20:52, loss=0.32328930497169495, d_time=0.00(0.44), f_time=0.09(0.34), b_time=0.09(0.78), lr=0.001770306803456509
+2022-09-19 18:12:39,891   INFO  epoch: 53/80, acc_iter=49450, cur_iter=265/928, batch_size=4, time_cost(epoch): 03:23/08:28, time_cost(all): 51:13/5:16:39, loss=0.3563203811645508, d_time=1.53(0.45), f_time=0.19(0.31), b_time=1.72(0.77), lr=0.0017651021838157289
+2022-09-19 18:13:16,156   INFO  epoch: 53/80, acc_iter=49500, cur_iter=315/928, batch_size=4, time_cost(epoch): 04:00/07:45, time_cost(all): 51:49/5:13:20, loss=0.39455029368400574, d_time=0.01(0.43), f_time=0.57(0.33), b_time=0.58(0.76), lr=0.0017598942677013014
+2022-09-19 18:13:16,521   INFO  cqu100                    Mon Sep 19 18:13:16 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 83'C,  97 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C,  95 % | 57793 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1797M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:13:53,038   INFO  epoch: 53/80, acc_iter=49550, cur_iter=365/928, batch_size=4, time_cost(epoch): 04:37/07:06, time_cost(all): 52:26/5:11:27, loss=0.33961138129234314, d_time=1.43(0.42), f_time=0.36(0.33), b_time=1.78(0.76), lr=0.0017546831198759138
+2022-09-19 18:14:16,431   INFO  Save latest model to /data/lixusheng_data/code/paper/OpenPCDet_20220718/Rewrite_openpcdet_reduce/OpenPCDet/output/kitti_models/pointpillar/default/ckpt/latest_model
+2022-09-19 18:14:28,081   INFO  epoch: 53/80, acc_iter=49600, cur_iter=415/928, batch_size=4, time_cost(epoch): 05:12/06:24, time_cost(all): 53:01/5:08:03, loss=0.32171058654785156, d_time=0.01(0.41), f_time=0.58(0.34), b_time=0.58(0.75), lr=0.0017494688051424407
+2022-09-19 18:15:03,008   INFO  epoch: 53/80, acc_iter=49650, cur_iter=465/928, batch_size=4, time_cost(epoch): 05:46/05:44, time_cost(all): 53:36/5:05:10, loss=0.2602662146091461, d_time=0.68(0.40), f_time=0.23(0.35), b_time=0.91(0.74), lr=0.0017442513883431379
+2022-09-19 18:15:03,399   INFO  cqu100                    Mon Sep 19 18:15:03 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 83'C,  68 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 83'C,  88 % | 57793 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1797M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:15:37,345   INFO  epoch: 53/80, acc_iter=49700, cur_iter=515/928, batch_size=4, time_cost(epoch): 06:21/05:05, time_cost(all): 54:10/5:02:15, loss=0.32606181502342224, d_time=0.01(0.39), f_time=0.34(0.35), b_time=0.35(0.74), lr=0.0017390309343588372
+2022-09-19 18:16:14,564   INFO  epoch: 53/80, acc_iter=49750, cur_iter=565/928, batch_size=4, time_cost(epoch): 06:58/04:28, time_cost(all): 54:47/5:01:50, loss=0.4164540767669678, d_time=1.08(0.39), f_time=0.33(0.35), b_time=1.41(0.74), lr=0.001733807508108139
+2022-09-19 18:16:50,815   INFO  epoch: 53/80, acc_iter=49800, cur_iter=615/928, batch_size=4, time_cost(epoch): 07:34/03:51, time_cost(all): 55:24/5:00:44, loss=0.32435935735702515, d_time=0.00(0.38), f_time=0.38(0.35), b_time=0.38(0.74), lr=0.001728581174546606
+2022-09-19 18:16:51,268   INFO  cqu100                    Mon Sep 19 18:16:51 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C, 100 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C, 100 % | 57793 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1797M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:17:27,450   INFO  epoch: 53/80, acc_iter=49850, cur_iter=665/928, batch_size=4, time_cost(epoch): 08:11/03:14, time_cost(all): 56:00/4:59:57, loss=0.425470769405365, d_time=1.39(0.38), f_time=0.35(0.36), b_time=1.74(0.74), lr=0.0017233519986659524
+2022-09-19 18:18:00,736   INFO  epoch: 53/80, acc_iter=49900, cur_iter=715/928, batch_size=4, time_cost(epoch): 08:44/02:36, time_cost(all): 56:34/4:57:17, loss=0.2965453863143921, d_time=0.00(0.37), f_time=0.30(0.36), b_time=0.30(0.73), lr=0.0017181200454932405
+2022-09-19 18:18:36,020   INFO  epoch: 53/80, acc_iter=49950, cur_iter=765/928, batch_size=4, time_cost(epoch): 09:19/01:59, time_cost(all): 57:09/4:55:58, loss=0.3202924430370331, d_time=0.00(0.37), f_time=0.60(0.36), b_time=0.60(0.73), lr=0.001712885380090068
+2022-09-19 18:18:36,382   INFO  cqu100                    Mon Sep 19 18:18:36 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C,  61 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C,  43 % | 57793 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1797M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:19:09,476   INFO  epoch: 53/80, acc_iter=50000, cur_iter=815/928, batch_size=4, time_cost(epoch): 09:53/01:22, time_cost(all): 57:42/4:53:49, loss=0.3521198034286499, d_time=0.00(0.38), f_time=0.09(0.35), b_time=0.09(0.73), lr=0.0017076480675517602
+2022-09-19 18:19:18,116   INFO  Save latest model to /data/lixusheng_data/code/paper/OpenPCDet_20220718/Rewrite_openpcdet_reduce/OpenPCDet/output/kitti_models/pointpillar/default/ckpt/latest_model
+2022-09-19 18:19:45,138   INFO  epoch: 53/80, acc_iter=50050, cur_iter=865/928, batch_size=4, time_cost(epoch): 10:29/00:45, time_cost(all): 58:18/4:52:53, loss=0.30818837881088257, d_time=0.57(0.38), f_time=0.25(0.34), b_time=0.82(0.73), lr=0.001702408173006561
+2022-09-19 18:20:19,450   INFO  epoch: 53/80, acc_iter=50100, cur_iter=915/928, batch_size=4, time_cost(epoch): 11:03/00:09, time_cost(all): 58:52/4:51:24, loss=0.35168343782424927, d_time=0.01(0.38), f_time=0.31(0.34), b_time=0.33(0.72), lr=0.001697165761614823
+2022-09-19 18:20:19,816   INFO  cqu100                    Mon Sep 19 18:20:19 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 82'C,  93 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C, 100 % | 57793 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1797M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:20:28,285   INFO  epoch: 53/80, acc_iter=50112, cur_iter=927/928, batch_size=4, time_cost(epoch): 11:12/00:00, time_cost(all): 59:01/4:51:19, loss=0.3490403890609741, d_time=0.01(0.38), f_time=0.56(0.34), b_time=0.57(0.72), lr=0.0016959072156164444
+2022-09-19 18:20:56,492   INFO  epoch: 54/80, acc_iter=50113, cur_iter=0/928, batch_size=4, time_cost(epoch): 00:15/3:52:40, time_cost(all): 59:29/100:49:28, loss=0.33800655603408813, d_time=14.92(14.92), f_time=0.13(0.13), b_time=15.04(15.04), lr=0.0016958023304371945
+2022-09-19 18:21:20,960   INFO  epoch: 54/80, acc_iter=50150, cur_iter=37/928, batch_size=4, time_cost(epoch): 00:39/15:26, time_cost(all): 59:54/6:57:28, loss=0.2742586135864258, d_time=0.00(0.65), f_time=0.38(0.39), b_time=0.39(1.04), lr=0.0016919208985681957
+2022-09-19 18:21:58,305   INFO  epoch: 54/80, acc_iter=50200, cur_iter=87/928, batch_size=4, time_cost(epoch): 01:16/12:14, time_cost(all): 1:00:31/5:49:56, loss=0.3234056532382965, d_time=0.02(0.47), f_time=0.56(0.40), b_time=0.57(0.87), lr=0.0016866736490888181
+2022-09-19 18:22:34,356   INFO  epoch: 54/80, acc_iter=50250, cur_iter=137/928, batch_size=4, time_cost(epoch): 01:52/10:47, time_cost(all): 1:01:07/5:27:08, loss=0.3659440875053406, d_time=0.00(0.43), f_time=0.11(0.39), b_time=0.11(0.82), lr=0.0016814240784285034
+2022-09-19 18:22:34,763   INFO  cqu100                    Mon Sep 19 18:22:34 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C,  74 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 85'C,  75 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:23:08,633   INFO  epoch: 54/80, acc_iter=50300, cur_iter=187/928, batch_size=4, time_cost(epoch): 02:27/09:40, time_cost(all): 1:01:41/5:12:23, loss=0.3612457811832428, d_time=0.00(0.40), f_time=0.16(0.38), b_time=0.16(0.78), lr=0.0016761722518679307
+2022-09-19 18:23:46,377   INFO  epoch: 54/80, acc_iter=50350, cur_iter=237/928, batch_size=4, time_cost(epoch): 03:04/08:56, time_cost(all): 1:02:19/5:09:23, loss=0.34043189883232117, d_time=0.00(0.39), f_time=0.26(0.39), b_time=0.26(0.78), lr=0.0016709182347158322
+2022-09-19 18:24:22,090   INFO  epoch: 54/80, acc_iter=50400, cur_iter=287/928, batch_size=4, time_cost(epoch): 03:40/08:11, time_cost(all): 1:02:55/5:04:24, loss=0.35506245493888855, d_time=0.00(0.38), f_time=0.31(0.38), b_time=0.31(0.77), lr=0.001665662092308181
+2022-09-19 18:24:22,502   INFO  cqu100                    Mon Sep 19 18:24:22 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 85'C, 100 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 85'C, 100 % | 57791 / 81920 MB | lg(34629M) lixusheng(7933M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:24:58,858   INFO  epoch: 54/80, acc_iter=50450, cur_iter=337/928, batch_size=4, time_cost(epoch): 04:17/07:30, time_cost(all): 1:03:32/5:01:58, loss=0.3987607955932617, d_time=0.71(0.38), f_time=0.15(0.38), b_time=0.86(0.76), lr=0.0016604038900073777
+2022-09-19 18:25:33,467   INFO  epoch: 54/80, acc_iter=50500, cur_iter=387/928, batch_size=4, time_cost(epoch): 04:52/06:47, time_cost(all): 1:04:06/4:57:48, loss=0.34084367752075195, d_time=0.00(0.37), f_time=0.09(0.38), b_time=0.09(0.75), lr=0.0016551436932014405
+2022-09-19 18:25:41,742   INFO  Save latest model to /data/lixusheng_data/code/paper/OpenPCDet_20220718/Rewrite_openpcdet_reduce/OpenPCDet/output/kitti_models/pointpillar/default/ckpt/latest_model
+2022-09-19 18:26:09,682   INFO  epoch: 54/80, acc_iter=50550, cur_iter=437/928, batch_size=4, time_cost(epoch): 05:28/06:07, time_cost(all): 1:04:42/4:55:53, loss=0.39086008071899414, d_time=2.48(0.40), f_time=0.10(0.35), b_time=2.58(0.75), lr=0.0016498815673031888
+2022-09-19 18:26:10,110   INFO  cqu100                    Mon Sep 19 18:26:10 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 79'C,   0 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 78'C,   0 % | 58141 / 81920 MB | lg(34629M) lixusheng(8283M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:26:45,662   INFO  epoch: 54/80, acc_iter=50600, cur_iter=487/928, batch_size=4, time_cost(epoch): 06:04/05:29, time_cost(all): 1:05:18/4:54:04, loss=0.4163709282875061, d_time=0.00(0.40), f_time=0.09(0.35), b_time=0.09(0.75), lr=0.0016446175777494309
+2022-09-19 18:27:22,048   INFO  epoch: 54/80, acc_iter=50650, cur_iter=537/928, batch_size=4, time_cost(epoch): 06:40/04:51, time_cost(all): 1:05:55/4:52:46, loss=0.3626556992530823, d_time=1.40(0.39), f_time=0.20(0.35), b_time=1.60(0.74), lr=0.0016393517900001513
+2022-09-19 18:27:58,954   INFO  epoch: 54/80, acc_iter=50700, cur_iter=587/928, batch_size=4, time_cost(epoch): 07:17/04:13, time_cost(all): 1:06:32/4:51:55, loss=0.38149383664131165, d_time=0.00(0.39), f_time=0.63(0.35), b_time=0.63(0.74), lr=0.001634084269537695
+2022-09-19 18:27:59,374   INFO  cqu100                    Mon Sep 19 18:27:59 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 85'C,  85 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 85'C,  78 % | 58141 / 81920 MB | lg(34629M) lixusheng(8283M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:28:36,001   INFO  epoch: 54/80, acc_iter=50750, cur_iter=637/928, batch_size=4, time_cost(epoch): 07:54/03:36, time_cost(all): 1:07:09/4:51:12, loss=0.2917073369026184, d_time=1.03(0.39), f_time=0.31(0.36), b_time=1.34(0.74), lr=0.0016288150818659555
+2022-09-19 18:29:11,888   INFO  epoch: 54/80, acc_iter=50800, cur_iter=687/928, batch_size=4, time_cost(epoch): 08:30/02:58, time_cost(all): 1:07:45/4:49:51, loss=0.304729700088501, d_time=0.01(0.38), f_time=0.60(0.36), b_time=0.61(0.74), lr=0.0016235442925095567
+2022-09-19 18:29:47,983   INFO  epoch: 54/80, acc_iter=50850, cur_iter=737/928, batch_size=4, time_cost(epoch): 09:06/02:21, time_cost(all): 1:08:21/4:48:42, loss=0.31220555305480957, d_time=1.12(0.38), f_time=0.55(0.36), b_time=1.67(0.74), lr=0.0016182719670130418
+2022-09-19 18:29:48,388   INFO  cqu100                    Mon Sep 19 18:29:48 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C,  70 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 85'C,  94 % | 58141 / 81920 MB | lg(34629M) lixusheng(8283M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:30:23,491   INFO  epoch: 54/80, acc_iter=50900, cur_iter=787/928, batch_size=4, time_cost(epoch): 09:42/01:44, time_cost(all): 1:08:56/4:47:20, loss=0.40416765213012695, d_time=0.00(0.37), f_time=0.10(0.37), b_time=0.10(0.74), lr=0.0016129981709400553
+2022-09-19 18:30:42,143   INFO  Save latest model to /data/lixusheng_data/code/paper/OpenPCDet_20220718/Rewrite_openpcdet_reduce/OpenPCDet/output/kitti_models/pointpillar/default/ckpt/latest_model
+2022-09-19 18:31:00,923   INFO  epoch: 54/80, acc_iter=50950, cur_iter=837/928, batch_size=4, time_cost(epoch): 10:19/01:07, time_cost(all): 1:09:34/4:46:57, loss=0.39389199018478394, d_time=1.39(0.37), f_time=0.36(0.37), b_time=1.74(0.74), lr=0.0016077229698725308
+2022-09-19 18:31:36,064   INFO  epoch: 54/80, acc_iter=51000, cur_iter=887/928, batch_size=4, time_cost(epoch): 10:54/00:30, time_cost(all): 1:10:09/4:45:32, loss=0.3189454972743988, d_time=0.02(0.37), f_time=0.16(0.37), b_time=0.18(0.74), lr=0.0016024464294098707
+2022-09-19 18:31:36,502   INFO  cqu100                    Mon Sep 19 18:31:36 2022  510.47.03
+[0] NVIDIA A100 80GB PCIe | 84'C,  13 % | 51888 / 81920 MB | lg(51021M)
+[1] NVIDIA A100 80GB PCIe | 84'C, 100 % | 58141 / 81920 MB | lg(34629M) lixusheng(8283M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M) lixusheng(1795M)
+
+2022-09-19 18:32:04,024   INFO  epoch: 54/80, acc_iter=51040, cur_iter=927/928, batch_size=4, time_cost(epoch): 11:22/00:00, time_cost(all): 1:10:37/4:44:25, loss=0.311635822057724, d_time=0.01(0.37), f_time=0.15(0.37), b_time=0.17(0.74), lr=0.0015982242767687
+2022-09-19 18:32:32,366   INFO  epoch: 55/80, acc_iter=51041, cur_iter=0/928, batch_size=4, time_cost(epoch): 00:15/3:52:03, time_cost(all): 1:11:05/96:41:26, loss=0.3805635869503021, d_time=14.91(14.91), f_time=0.10(0.10), b_time=15.00(15.00), lr=0.0015981187127982765
+2022-09-19 18:32:37,134   INFO  epoch: 55/80, acc_iter=51050, cur_iter=9/928, batch_size=4, time_cost(epoch): 00:19/30:17, time_cost(all): 1:11:10/12:44:12, loss=0.33795082569122314, d_time=0.97(1.89), f_time=0.10(0.09), b_time=1.06(1.98), lr=0.0015971686151681366
